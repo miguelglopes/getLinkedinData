@@ -1,0 +1,1241 @@
+{
+    "metadata": {
+        "locationInfo": {
+            "location": "Portugal",
+            "locationId": "pt:0"
+        },
+        "keywords": "data+engineer",
+        "taggedQueryKeyword": "data engineer",
+        "origin": "JOB_SEARCH_RESULTS_PAGE",
+        "taggedQueryType": "TITLE",
+        "suggestedFacets": [],
+        "type": "JOBS",
+        "facets": [
+            {
+                "facetTypeV2": {
+                    "com.linkedin.voyager.search.JobSearchFacetType": "INDUSTRY"
+                },
+                "displayName": "Industry",
+                "facetValues": [
+                    {
+                        "count": 341,
+                        "displayValue": "Information Technology and Services",
+                        "value": "96",
+                        "selected": false
+                    },
+                    {
+                        "count": 302,
+                        "displayValue": "Computer Software",
+                        "value": "4",
+                        "selected": false
+                    },
+                    {
+                        "count": 168,
+                        "displayValue": "Internet",
+                        "value": "6",
+                        "selected": false
+                    },
+                    {
+                        "count": 51,
+                        "displayValue": "Financial Services",
+                        "value": "43",
+                        "selected": false
+                    },
+                    {
+                        "count": 47,
+                        "displayValue": "Management Consulting",
+                        "value": "11",
+                        "selected": false
+                    },
+                    {
+                        "count": 33,
+                        "displayValue": "Telecommunications",
+                        "value": "8",
+                        "selected": false
+                    },
+                    {
+                        "count": 13,
+                        "displayValue": "Computer & Network Security",
+                        "value": "118",
+                        "selected": false
+                    },
+                    {
+                        "count": 3,
+                        "displayValue": "Insurance",
+                        "value": "42",
+                        "selected": false
+                    },
+                    {
+                        "count": 3,
+                        "displayValue": "Automotive",
+                        "value": "53",
+                        "selected": false
+                    },
+                    {
+                        "count": 2,
+                        "displayValue": "Design",
+                        "value": "99",
+                        "selected": false
+                    }
+                ],
+                "facetParameterName": "f_I",
+                "premiumFacet": false
+            },
+            {
+                "facetTypeV2": {
+                    "com.linkedin.voyager.search.JobSearchFacetType": "JOB_TYPE"
+                },
+                "displayName": "Job Type",
+                "facetValues": [
+                    {
+                        "count": 413,
+                        "displayValue": "Full-time",
+                        "value": "F",
+                        "selected": false
+                    },
+                    {
+                        "count": 3,
+                        "displayValue": "Contract",
+                        "value": "C",
+                        "selected": false
+                    },
+                    {
+                        "count": 2,
+                        "displayValue": "Internship",
+                        "value": "I",
+                        "selected": false
+                    },
+                    {
+                        "count": 1,
+                        "displayValue": "Other",
+                        "value": "O",
+                        "selected": false
+                    }
+                ],
+                "facetParameterName": "f_JT",
+                "premiumFacet": false
+            },
+            {
+                "facetTypeV2": {
+                    "com.linkedin.voyager.search.JobSearchFacetType": "TITLE"
+                },
+                "displayName": "Title",
+                "facetValues": [
+                    {
+                        "count": 141,
+                        "displayValue": "Data Scientist",
+                        "value": "25190",
+                        "selected": false
+                    },
+                    {
+                        "count": 93,
+                        "displayValue": "Data Engineer",
+                        "value": "2732",
+                        "selected": false
+                    },
+                    {
+                        "count": 26,
+                        "displayValue": "Big Data Developer",
+                        "value": "25195",
+                        "selected": false
+                    },
+                    {
+                        "count": 21,
+                        "displayValue": "Software Engineer",
+                        "value": "9",
+                        "selected": false
+                    },
+                    {
+                        "count": 13,
+                        "displayValue": "Senior Data Engineer",
+                        "value": "13447",
+                        "selected": false
+                    },
+                    {
+                        "count": 11,
+                        "displayValue": "Cloud Engineer",
+                        "value": "30006",
+                        "selected": false
+                    },
+                    {
+                        "count": 10,
+                        "displayValue": "Senior Data Scientist",
+                        "value": "25887",
+                        "selected": false
+                    },
+                    {
+                        "count": 9,
+                        "displayValue": "Frontend Engineer",
+                        "value": "10966",
+                        "selected": false
+                    },
+                    {
+                        "count": 9,
+                        "displayValue": "Machine Learning Engineer",
+                        "value": "25206",
+                        "selected": false
+                    },
+                    {
+                        "count": 8,
+                        "displayValue": "Back End Developer",
+                        "value": "25194",
+                        "selected": false
+                    }
+                ],
+                "facetParameterName": "f_T",
+                "premiumFacet": false
+            },
+            {
+                "facetTypeV2": {
+                    "com.linkedin.voyager.search.JobSearchFacetType": "FUNCTION"
+                },
+                "displayName": "Job Function",
+                "facetValues": [
+                    {
+                        "count": 368,
+                        "displayValue": "Information Technology",
+                        "value": "it",
+                        "selected": false
+                    },
+                    {
+                        "count": 232,
+                        "displayValue": "Engineering",
+                        "value": "eng",
+                        "selected": false
+                    },
+                    {
+                        "count": 24,
+                        "displayValue": "Other",
+                        "value": "othr",
+                        "selected": false
+                    },
+                    {
+                        "count": 13,
+                        "displayValue": "Sales",
+                        "value": "sale",
+                        "selected": false
+                    },
+                    {
+                        "count": 10,
+                        "displayValue": "Business Development",
+                        "value": "bd",
+                        "selected": false
+                    },
+                    {
+                        "count": 9,
+                        "displayValue": "Quality Assurance",
+                        "value": "qa",
+                        "selected": false
+                    },
+                    {
+                        "count": 6,
+                        "displayValue": "Analyst",
+                        "value": "anls",
+                        "selected": false
+                    },
+                    {
+                        "count": 4,
+                        "displayValue": "Finance",
+                        "value": "fin",
+                        "selected": false
+                    },
+                    {
+                        "count": 2,
+                        "displayValue": "Science",
+                        "value": "sci",
+                        "selected": false
+                    },
+                    {
+                        "count": 1,
+                        "displayValue": "Consulting",
+                        "value": "cnsl",
+                        "selected": false
+                    }
+                ],
+                "facetParameterName": "f_F",
+                "premiumFacet": false
+            },
+            {
+                "facetTypeV2": {
+                    "com.linkedin.voyager.search.JobSearchFacetType": "GEO_CITY"
+                },
+                "displayName": "Location",
+                "facetValues": [
+                    {
+                        "count": 250,
+                        "displayValue": "Lisbon",
+                        "value": "pt.11-6-1",
+                        "selected": false
+                    },
+                    {
+                        "count": 94,
+                        "displayValue": "Porto",
+                        "value": "pt.13-12-1",
+                        "selected": false
+                    },
+                    {
+                        "count": 10,
+                        "displayValue": "Aveiro",
+                        "value": "pt.1-5-1",
+                        "selected": false
+                    },
+                    {
+                        "count": 8,
+                        "displayValue": "Amadora",
+                        "value": "pt.11-15-1",
+                        "selected": false
+                    },
+                    {
+                        "count": 6,
+                        "displayValue": "Calvos",
+                        "value": "pt.11-9-188",
+                        "selected": false
+                    },
+                    {
+                        "count": 5,
+                        "displayValue": "Areeiro",
+                        "value": "pt.12-14-89",
+                        "selected": false
+                    },
+                    {
+                        "count": 2,
+                        "displayValue": "Adroana",
+                        "value": "pt.11-5-8",
+                        "selected": false
+                    },
+                    {
+                        "count": 2,
+                        "displayValue": "Braga",
+                        "value": "pt.3-3-1",
+                        "selected": false
+                    },
+                    {
+                        "count": 1,
+                        "displayValue": "Amieiro",
+                        "value": "pt.1-4-300",
+                        "selected": false
+                    },
+                    {
+                        "count": 1,
+                        "displayValue": "Camarinha",
+                        "value": "pt.6-14-42",
+                        "selected": false
+                    }
+                ],
+                "facetParameterName": "f_GC",
+                "premiumFacet": false
+            },
+            {
+                "facetTypeV2": {
+                    "com.linkedin.voyager.search.JobSearchFacetType": "TIME_POSTED"
+                },
+                "displayName": "Date Posted",
+                "facetValues": [
+                    {
+                        "count": 1,
+                        "displayValue": "Past 24 hours",
+                        "value": "1",
+                        "selected": false
+                    },
+                    {
+                        "count": 135,
+                        "displayValue": "Past Week",
+                        "value": "1,2",
+                        "selected": false
+                    },
+                    {
+                        "count": 307,
+                        "displayValue": "Past Month",
+                        "value": "1,2,3,4",
+                        "selected": false
+                    },
+                    {
+                        "count": 419,
+                        "displayValue": "Any Time",
+                        "value": "",
+                        "selected": true
+                    }
+                ],
+                "facetParameterName": "f_TP",
+                "premiumFacet": false
+            },
+            {
+                "facetTypeV2": {
+                    "com.linkedin.voyager.search.JobSearchFacetType": "COMPANY"
+                },
+                "displayName": "Company",
+                "facetValues": [
+                    {
+                        "count": 20,
+                        "displayValue": "DELLENT CONSULTING",
+                        "value": "5388564",
+                        "selected": false
+                    },
+                    {
+                        "count": 12,
+                        "displayValue": "DefinedCrowd Corp.",
+                        "value": "7582992",
+                        "selected": false
+                    },
+                    {
+                        "count": 10,
+                        "displayValue": "BOLD by Devoteam",
+                        "value": "655750",
+                        "selected": false
+                    },
+                    {
+                        "count": 7,
+                        "displayValue": "Talkdesk",
+                        "value": "2837787",
+                        "selected": false
+                    },
+                    {
+                        "count": 3,
+                        "displayValue": "Marionete",
+                        "value": "10148496",
+                        "selected": false
+                    },
+                    {
+                        "count": 3,
+                        "displayValue": "Noesis",
+                        "value": "417474",
+                        "selected": false
+                    },
+                    {
+                        "count": 3,
+                        "displayValue": "Feedzai",
+                        "value": "869560",
+                        "selected": false
+                    },
+                    {
+                        "count": 2,
+                        "displayValue": "Stratio",
+                        "value": "10693147",
+                        "selected": false
+                    },
+                    {
+                        "count": 2,
+                        "displayValue": "Extia Portugal",
+                        "value": "20342265",
+                        "selected": false
+                    },
+                    {
+                        "count": 2,
+                        "displayValue": "InnoWave",
+                        "value": "209534",
+                        "selected": false
+                    }
+                ],
+                "facetParameterName": "f_C",
+                "premiumFacet": false
+            },
+            {
+                "facetTypeV2": {
+                    "com.linkedin.voyager.search.JobSearchFacetType": "EXPERIENCE"
+                },
+                "displayName": "Experience Level",
+                "facetValues": [
+                    {
+                        "count": 314,
+                        "displayValue": "Entry level",
+                        "value": "2",
+                        "selected": false
+                    },
+                    {
+                        "count": 58,
+                        "displayValue": "Associate",
+                        "value": "3",
+                        "selected": false
+                    },
+                    {
+                        "count": 21,
+                        "displayValue": "Mid-Senior level",
+                        "value": "4",
+                        "selected": false
+                    },
+                    {
+                        "count": 8,
+                        "displayValue": "Internship",
+                        "value": "1",
+                        "selected": false
+                    },
+                    {
+                        "count": 2,
+                        "displayValue": "Director",
+                        "value": "5",
+                        "selected": false
+                    },
+                    {
+                        "count": 0,
+                        "displayValue": "Executive",
+                        "value": "6",
+                        "selected": false
+                    }
+                ],
+                "facetParameterName": "f_E",
+                "premiumFacet": false
+            },
+            {
+                "facetTypeV2": {
+                    "com.linkedin.voyager.search.JobSearchFacetType": "LINKEDIN_FEATURES"
+                },
+                "displayName": "LinkedIn Features",
+                "facetValues": [
+                    {
+                        "displayValue": "Under 10 Applicants",
+                        "count": 315,
+                        "value": "f_EA",
+                        "selected": false
+                    },
+                    {
+                        "displayValue": "Easy Apply",
+                        "count": 24,
+                        "value": "f_AL",
+                        "selected": false
+                    },
+                    {
+                        "displayValue": "In Your Network",
+                        "count": 72,
+                        "value": "f_JIYN",
+                        "selected": false
+                    }
+                ],
+                "facetParameterName": "f_LF"
+            }
+        ],
+        "guides": [
+            {
+                "displayText": "All",
+                "type": "VERTICAL",
+                "guideInfo": {
+                    "com.linkedin.voyager.search.VerticalGuide": {
+                        "vertical": "TOP"
+                    }
+                },
+                "urlParameter": "v->TOP",
+                "selected": false
+            },
+            {
+                "displayText": "People",
+                "type": "VERTICAL",
+                "guideInfo": {
+                    "com.linkedin.voyager.search.VerticalGuide": {
+                        "vertical": "PEOPLE"
+                    }
+                },
+                "urlParameter": "v->PEOPLE",
+                "selected": false
+            },
+            {
+                "displayText": "Jobs",
+                "type": "VERTICAL",
+                "guideInfo": {
+                    "com.linkedin.voyager.search.VerticalGuide": {
+                        "vertical": "JOBS"
+                    }
+                },
+                "urlParameter": "v->JOBS",
+                "selected": true
+            },
+            {
+                "displayText": "Content",
+                "type": "VERTICAL",
+                "guideInfo": {
+                    "com.linkedin.voyager.search.VerticalGuide": {
+                        "vertical": "CONTENT"
+                    }
+                },
+                "urlParameter": "v->CONTENT",
+                "selected": false
+            },
+            {
+                "displayText": "Companies",
+                "type": "VERTICAL",
+                "guideInfo": {
+                    "com.linkedin.voyager.search.VerticalGuide": {
+                        "vertical": "COMPANIES"
+                    }
+                },
+                "urlParameter": "v->COMPANIES",
+                "selected": false
+            },
+            {
+                "displayText": "Groups",
+                "type": "VERTICAL",
+                "guideInfo": {
+                    "com.linkedin.voyager.search.VerticalGuide": {
+                        "vertical": "GROUPS"
+                    }
+                },
+                "urlParameter": "v->GROUPS",
+                "selected": false
+            },
+            {
+                "displayText": "Schools",
+                "type": "VERTICAL",
+                "guideInfo": {
+                    "com.linkedin.voyager.search.VerticalGuide": {
+                        "vertical": "SCHOOLS"
+                    }
+                },
+                "urlParameter": "v->SCHOOLS",
+                "selected": false
+            }
+        ],
+        "taggedQueryUrn": "urn:li:title:2732",
+        "sortBy": "R",
+        "id": "07b326cb-e58f-487f-ba27-9a76afecefe2",
+        "pastJobSearchMatch": false
+    },
+    "elements": [
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;EfeWwfcASk2rxWktM6k6Nw==",
+            "hitInfo": {
+                "com.linkedin.voyager.search.SearchJobJserp": {
+                    "encryptedBiddingParameters": "CwEAAAFue9NabIdtv3UkgZG_lSwnIPAP9L3PzVO7OnleBUZ3GmDdJ0Bo3B4Vk7cyMYxwbAlTEgBxdMPue3AarMMm4yDx0meevtuzcIo5hqXHONCgkhBoEbi2MlDYNwqqurJdeV2wAtWfwmZrkbuc1P2dFpB8H9Ifcs7wNctY-KgZ29CtqLWIgACKeKeuH5NyV9o1TOROGlaUzJ5vS6oMfKE8D9OmpngJbDOQ04LS02hZtl0oU5t2mxJDd_wR7DAWBoKMBO1PSup00qIxLB68X-P64rY4VpmnLS4Pa-T_BA2tBFyKqXjLs5opXXDKhbAUFVPCkzejhnZ61cv1wdyAiC5dOPCePvpDWXK9oP6NPpP9P4qgEkOSL0953xAieXV_g7dB",
+                    "entityUrn": "urn:li:fs_searchJobJserp:urn:li:fs_normalized_jobPosting:1515159176",
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:1515159176",
+                    "sponsored": true,
+                    "sponsoredToken": "CwEAAAFue9NanD6qfoE1zjLKDgfHuUYo-Z4-lyQLTJ1QC31O22FOK9G6ShdoMj-402k7at3oeYvHUIl0Fs76SUSpJZs",
+                    "descriptionSnippet": ""
+                }
+            },
+            "trackingId": "L8wk0lQYSj2G+lRMyqAlCA=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;8O8YD6X8RF6EPd2C/txAQQ==",
+            "hitInfo": {
+                "com.linkedin.voyager.search.SearchJobJserp": {
+                    "encryptedBiddingParameters": "CwEAAAFue9NabHRFOTxEiXGW_SaaXieNLlB6zhkKS149cjZvfgFFTgXY692rUjBF_B6JUc53lweX5x7QuUpP8mW-7r_jB788BBie_aDc1cPSTqDGhYPc4wONn1oAjKc0ID0feiKZ2yp3s6NBR3xa4jyBpuSTYaNpHEjFvA7AG4n7OP4Ga5ZWfV093uyL7vHFgFLBhVJO5VWsAHro3_2iut19Vo3vA7K1N1d6F_fl5MfKIBJToqs1vop2eMtJK1y8SWa2xw4nhcpEgjEWq0zJtBaHu1vudGZNF2OcpcgvQNdkifQkw5zJdgpaDeXzvO-QMfpM1a8kmglgMHQpD572y0aN_DCZyYp0_6t4VaUSBfzvO_mjBMMcULfWJN3TZ43fjM7T",
+                    "entityUrn": "urn:li:fs_searchJobJserp:urn:li:fs_normalized_jobPosting:1561851373",
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:1561851373",
+                    "sponsored": true,
+                    "sponsoredToken": "CwEAAAFue9NanDVoSrAhvVAfKDmz-0XsGIWrB7A2Hq4Jt2Sqyw7EjxT43vQZHlUEWNm6uLVLVX24MZ9WuMIN4iZ3ScI",
+                    "descriptionSnippet": ""
+                }
+            },
+            "trackingId": "AOXrlh1LSbyfJ0XBeXmeLg=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;3spdl90LSUuwgwgU3ju5+w==",
+            "hitInfo": {
+                "com.linkedin.voyager.search.SearchJobJserp": {
+                    "encryptedBiddingParameters": "CwEAAAFue9NabIR3yYbcvJDpi322bgwgDuBaceY4IDZwxk6FgMaMXOtr145bbzYlxEVmyPf_UWIXV5t0B-m28Dy5P-132fgfl6BnZeGagoxhjuSjlN3wBSz1jlIHT5mF-G70t0gX0Jl0Gs0Z71CkQkdTO987n_9UkheA0RWK5bo6lioZ9iRpWHtARsIBicBt_IyFDkqw-XHePvcMBRh6IRS2r1GhxhMT_UMSGyVAtodeisnYov9q9V1oLeZa-6mc1-blUaXC8yaSj-YnVNnwmBQww4Zwf-h_fNGarSdxrRd57AydB20V2v0ZxITcYAlw3Oh-7I3WYbWG6MpSkXoVAXSUnD7NTJ8000a5VyEADj9TgbIlfglRvfazKAJTmcmmxyDGcZnBW75kWy5Jqwr_2cRp3tU",
+                    "entityUrn": "urn:li:fs_searchJobJserp:urn:li:fs_normalized_jobPosting:1498346882",
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:1498346882",
+                    "sponsored": true,
+                    "sponsoredToken": "CwEAAAFue9NanPQeRN0DsFXPblStJemtG0pPsmuC91mNDflhH9iMuATqT-p9DD9xdST534qZIB_XHR2IcTyDNVo-V2c",
+                    "descriptionSnippet": ""
+                }
+            },
+            "trackingId": "JKCHON5rRu6KQX9iBo/YWw=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;fqwM89IgQEOoGWfo/S0BzQ==",
+            "hitInfo": {
+                "com.linkedin.voyager.search.SearchJobJserp": {
+                    "encryptedBiddingParameters": "NotAvailableFromVoyagerAPI",
+                    "entityUrn": "urn:li:fs_searchJobJserp:urn:li:fs_normalized_jobPosting:1612179476",
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:1612179476",
+                    "sponsored": false,
+                    "descriptionSnippet": ""
+                }
+            },
+            "trackingId": "aHiDxYjIS/63ryqb2W91bg=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;ugr4Q55NSzugOjsrcAMM1g==",
+            "hitInfo": {
+                "com.linkedin.voyager.search.SearchJobJserp": {
+                    "encryptedBiddingParameters": "NotAvailableFromVoyagerAPI",
+                    "entityUrn": "urn:li:fs_searchJobJserp:urn:li:fs_normalized_jobPosting:1508515424",
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:1508515424",
+                    "sponsored": false,
+                    "descriptionSnippet": ""
+                }
+            },
+            "trackingId": "S5SZjmF8QG6WeRw0G+RdrQ=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;9vOa7oR/QU+2BDX6BENSbA==",
+            "hitInfo": {
+                "com.linkedin.voyager.search.SearchJobJserp": {
+                    "encryptedBiddingParameters": "NotAvailableFromVoyagerAPI",
+                    "entityUrn": "urn:li:fs_searchJobJserp:urn:li:fs_normalized_jobPosting:1453612247",
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:1453612247",
+                    "sponsored": false,
+                    "descriptionSnippet": ""
+                }
+            },
+            "trackingId": "FD8QQZ0tT+iM7qe4l9yV8Q=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;30Jdcg38Q0qwJamF0VTK0w==",
+            "hitInfo": {
+                "com.linkedin.voyager.search.SearchJobJserp": {
+                    "encryptedBiddingParameters": "NotAvailableFromVoyagerAPI",
+                    "entityUrn": "urn:li:fs_searchJobJserp:urn:li:fs_normalized_jobPosting:1463137404",
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:1463137404",
+                    "sponsored": false,
+                    "descriptionSnippet": ""
+                }
+            },
+            "trackingId": "WqC2OOPcQsqFuO8FJMwBeA=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;CkSqA1DyScm9L7URr6UqGQ==",
+            "hitInfo": {
+                "com.linkedin.voyager.search.SearchJobJserp": {
+                    "encryptedBiddingParameters": "NotAvailableFromVoyagerAPI",
+                    "entityUrn": "urn:li:fs_searchJobJserp:urn:li:fs_normalized_jobPosting:1592168072",
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:1592168072",
+                    "sponsored": false,
+                    "descriptionSnippet": ""
+                }
+            },
+            "trackingId": "sAz/KMQWSZGk73UJfP7tPg=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;FXYLIvPwTR2uo0VfYUACWA==",
+            "hitInfo": {
+                "com.linkedin.voyager.search.SearchJobJserp": {
+                    "encryptedBiddingParameters": "JOB_SEARCH_ORGANIC",
+                    "entityUrn": "urn:li:fs_searchJobJserp:urn:li:fs_normalized_jobPosting:1307596272",
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:1307596272",
+                    "sponsored": false,
+                    "descriptionSnippet": ""
+                }
+            },
+            "trackingId": "hDMRFhOLRu6YSpvosQW9iw=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;vI4m3/fPTOu71pToz01ImQ==",
+            "hitInfo": {
+                "com.linkedin.voyager.search.SearchJobJserp": {
+                    "encryptedBiddingParameters": "NotAvailableFromVoyagerAPI",
+                    "entityUrn": "urn:li:fs_searchJobJserp:urn:li:fs_normalized_jobPosting:1577460075",
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:1577460075",
+                    "sponsored": false,
+                    "descriptionSnippet": ""
+                }
+            },
+            "trackingId": "ccb+jDqYQoq2Ny2PIR1xHg=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;EziSY9j0Rz6ru1Mgu7ZHeQ==",
+            "hitInfo": {
+                "com.linkedin.voyager.search.SearchJobJserp": {
+                    "encryptedBiddingParameters": "NotAvailableFromVoyagerAPI",
+                    "entityUrn": "urn:li:fs_searchJobJserp:urn:li:fs_normalized_jobPosting:1585122175",
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:1585122175",
+                    "sponsored": false,
+                    "descriptionSnippet": ""
+                }
+            },
+            "trackingId": "Rq2v9qYmSQ+rWt0mwkvFXw=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;EstlFdkASXqBhsB3oaWWbA==",
+            "hitInfo": {
+                "com.linkedin.voyager.search.SearchJobJserp": {
+                    "encryptedBiddingParameters": "JOB_SEARCH_ORGANIC",
+                    "entityUrn": "urn:li:fs_searchJobJserp:urn:li:fs_normalized_jobPosting:1305719502",
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:1305719502",
+                    "sponsored": false,
+                    "descriptionSnippet": ""
+                }
+            },
+            "trackingId": "uljwLfCVTPeMdhp5YjPz+w=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;ADJbuLh3SkSsDIeR+uhD2g==",
+            "hitInfo": {
+                "com.linkedin.voyager.search.SearchJobJserp": {
+                    "encryptedBiddingParameters": "NotAvailableFromVoyagerAPI",
+                    "entityUrn": "urn:li:fs_searchJobJserp:urn:li:fs_normalized_jobPosting:1509180527",
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:1509180527",
+                    "sponsored": false,
+                    "descriptionSnippet": ""
+                }
+            },
+            "trackingId": "Mc9sUdQmTGO5byqAeT2nig=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;PIh+XGyJR9uwyA4ceozqwQ==",
+            "hitInfo": {
+                "com.linkedin.voyager.search.SearchJobJserp": {
+                    "encryptedBiddingParameters": "NotAvailableFromVoyagerAPI",
+                    "entityUrn": "urn:li:fs_searchJobJserp:urn:li:fs_normalized_jobPosting:1611595277",
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:1611595277",
+                    "sponsored": false,
+                    "descriptionSnippet": ""
+                }
+            },
+            "trackingId": "6ynmVwnyS0G1AmJDtV5oLA=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;VQKwHiP/ThSa8Xw8ihOEPQ==",
+            "hitInfo": {
+                "com.linkedin.voyager.search.SearchJobJserp": {
+                    "encryptedBiddingParameters": "NotAvailableFromVoyagerAPI",
+                    "entityUrn": "urn:li:fs_searchJobJserp:urn:li:fs_normalized_jobPosting:1540105207",
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:1540105207",
+                    "sponsored": false,
+                    "descriptionSnippet": ""
+                }
+            },
+            "trackingId": "EPvphGodQ5q3w3mBySMzGQ=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;YVbwmaYlQ3avwufjtZ6kSw==",
+            "hitInfo": {
+                "com.linkedin.voyager.search.SearchJobJserp": {
+                    "encryptedBiddingParameters": "JOB_SEARCH_ORGANIC",
+                    "entityUrn": "urn:li:fs_searchJobJserp:urn:li:fs_normalized_jobPosting:1604732530",
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:1604732530",
+                    "sponsored": false,
+                    "descriptionSnippet": ""
+                }
+            },
+            "trackingId": "VGouoyFVTgyuYR6FpHghpA=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;vdPRp/JTSnOfm6P09XUeWQ==",
+            "hitInfo": {
+                "com.linkedin.voyager.search.SearchJobJserp": {
+                    "encryptedBiddingParameters": "NotAvailableFromVoyagerAPI",
+                    "entityUrn": "urn:li:fs_searchJobJserp:urn:li:fs_normalized_jobPosting:1545098757",
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:1545098757",
+                    "sponsored": false,
+                    "descriptionSnippet": ""
+                }
+            },
+            "trackingId": "3/ny1zqWQ0SNXeugq9Xr7w=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;DpCBpUKtR5u2IvzKuSGnLg==",
+            "hitInfo": {
+                "com.linkedin.voyager.search.SearchJobJserp": {
+                    "encryptedBiddingParameters": "JOB_SEARCH_ORGANIC",
+                    "entityUrn": "urn:li:fs_searchJobJserp:urn:li:fs_normalized_jobPosting:1550934845",
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:1550934845",
+                    "sponsored": false,
+                    "descriptionSnippet": ""
+                }
+            },
+            "trackingId": "3PqpOnDLRdC/duKhR81hzQ=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;4V+HkinmTDWN5fnudHVGyg==",
+            "hitInfo": {
+                "com.linkedin.voyager.search.SearchJobJserp": {
+                    "encryptedBiddingParameters": "JOB_SEARCH_ORGANIC",
+                    "entityUrn": "urn:li:fs_searchJobJserp:urn:li:fs_normalized_jobPosting:1548869144",
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:1548869144",
+                    "sponsored": false,
+                    "descriptionSnippet": ""
+                }
+            },
+            "trackingId": "MbKtCkvASs2SlhlHiPRUdg=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;oDIvgf0OQgCmbuBamW7hGg==",
+            "hitInfo": {
+                "com.linkedin.voyager.search.SearchJobJserp": {
+                    "encryptedBiddingParameters": "NotAvailableFromVoyagerAPI",
+                    "entityUrn": "urn:li:fs_searchJobJserp:urn:li:fs_normalized_jobPosting:1612094327",
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:1612094327",
+                    "sponsored": false,
+                    "descriptionSnippet": ""
+                }
+            },
+            "trackingId": "eO5/feF/SfWyqaY8Xuk9xw=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;Iw2uxRtWTfKD/m6jptzW/Q==",
+            "hitInfo": {
+                "com.linkedin.voyager.search.SearchJobJserp": {
+                    "encryptedBiddingParameters": "NotAvailableFromVoyagerAPI",
+                    "entityUrn": "urn:li:fs_searchJobJserp:urn:li:fs_normalized_jobPosting:1540470948",
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:1540470948",
+                    "sponsored": false,
+                    "descriptionSnippet": ""
+                }
+            },
+            "trackingId": "ZLi4nX0+T2SRyXYMWq2eMg=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;Buy2qoJ6SNOmdF4YviOKgA==",
+            "hitInfo": {
+                "com.linkedin.voyager.search.SearchJobJserp": {
+                    "encryptedBiddingParameters": "NotAvailableFromVoyagerAPI",
+                    "entityUrn": "urn:li:fs_searchJobJserp:urn:li:fs_normalized_jobPosting:1611595449",
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:1611595449",
+                    "sponsored": false,
+                    "descriptionSnippet": ""
+                }
+            },
+            "trackingId": "PFs8YAxzQPG8AK8RHI9Z7g=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;EIuMk4woT8WHabErxIRtrg==",
+            "hitInfo": {
+                "com.linkedin.voyager.search.SearchJobJserp": {
+                    "encryptedBiddingParameters": "NotAvailableFromVoyagerAPI",
+                    "entityUrn": "urn:li:fs_searchJobJserp:urn:li:fs_normalized_jobPosting:1477157586",
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:1477157586",
+                    "sponsored": false,
+                    "descriptionSnippet": ""
+                }
+            },
+            "trackingId": "rjHS0ioeQ/mOrHFWrxO5Aw=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;x2lHX6exT5ees6jtzjISuQ==",
+            "hitInfo": {
+                "com.linkedin.voyager.search.SearchJobJserp": {
+                    "encryptedBiddingParameters": "NotAvailableFromVoyagerAPI",
+                    "entityUrn": "urn:li:fs_searchJobJserp:urn:li:fs_normalized_jobPosting:1612120833",
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:1612120833",
+                    "sponsored": false,
+                    "descriptionSnippet": ""
+                }
+            },
+            "trackingId": "QdB6xlhURjiKEY6qG2lzNw=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;o8Fie8W3T06y08SBR4t1PA==",
+            "hitInfo": {
+                "com.linkedin.voyager.search.SearchJobJserp": {
+                    "encryptedBiddingParameters": "NotAvailableFromVoyagerAPI",
+                    "entityUrn": "urn:li:fs_searchJobJserp:urn:li:fs_normalized_jobPosting:1605688676",
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:1605688676",
+                    "sponsored": false,
+                    "descriptionSnippet": ""
+                }
+            },
+            "trackingId": "VO1HqN83SjazoawiLmvSpQ=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;8UqScnceRQylG/tjzl+5gQ==",
+            "hitInfo": {
+                "com.linkedin.voyager.search.SearchJobJserp": {
+                    "encryptedBiddingParameters": "CwEAAAFue9NabSw0O8bTWsqDXDVztDb7dFf1yb4FberuTbfqa8p7cLXsBBKwzefqE8PXE3CUveliS1m8hZ2ExG5YUThdErhgFAAED_Qg4KW87QvTJ06o17HuUZpI509gpTkU9SrOGQKdgmDgdx3hJex7yZEY7TOr6nbxTaJmKIocmXONm6AB3YI2RxFE6xds6h5fdeQ-eXawa9ZcpOZAwIqLWXA6b5k6BxJuUXPHYvzgbuSAt29j6hxq_RFjLHoSgvQTsbhR1xMXF_c9OjaXf9U94l3QxfqVjziMd8tiL_8FczQgIlgSkIUFrrrq_JErCli5mAsy-mhQ8y9ZEygsZl7w9xg-0rmStlcWnqGgy9GYnPS0gRJ9cNJqbT5jLCTweefV",
+                    "entityUrn": "urn:li:fs_searchJobJserp:urn:li:fs_normalized_jobPosting:1448879146",
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:1448879146",
+                    "sponsored": true,
+                    "sponsoredToken": "CwEAAAFue9NanGVeg6gDZg_kBtlfWnmywGKdRqfi82Q4UwgFz83lse9NRvBIp8IWVbC2v_G1yg3FZO_jMW3O4n6YGgI",
+                    "descriptionSnippet": ""
+                }
+            },
+            "trackingId": "8M2FQFhFQjKVYU+hgOj7dQ=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;F2zr0SwvRhuO3xU+/YXt7w==",
+            "hitInfo": {
+                "com.linkedin.voyager.search.SearchJobJserp": {
+                    "encryptedBiddingParameters": "CwEAAAFue9NabS9sMJKtQcwTAleNw44XKHW7AFJhknC6Zij5KtWEiDcnrnQJLzdYYn6zyXWe_21t6GdDLW65E-Tcwz8HGv_s1-5C3ZTGMsAiovdrZkBzNGEKnoV8EHV098rQATOerV1J2ig0C_LvJFCuiM5wP1grfErVo4yFlGfO2cUuVSdv_9vcb9JfrZNPj31T3igWTtmauh6EvQik-TvkZbtzI-yHAWXPXUHocpue5OiXNsep8f2jJgvGnOsaWWPHL7VTnc5k3pEaVfElG-dWCOqu5T5ZxRnJKNO3tbGGE6LMhRUlDbatcuAYI4LsqpdJGTYY8EXNW6SD3bp5281-1ocZaERL8UJOZEj-ONd9ROVXr1tay0H8pdVTk8mEgbWnfNDaoMEwVudeCJAbVTaN",
+                    "entityUrn": "urn:li:fs_searchJobJserp:urn:li:fs_normalized_jobPosting:1561846205",
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:1561846205",
+                    "sponsored": true,
+                    "sponsoredToken": "CwEAAAFue9NanLUhMIgcgnkq3d7spjqhM_-FNL-AG6j88CC1JEjZwUBCLneFFwUKooRa1Q4UZq7eQxSRhf7pT8YGajY",
+                    "descriptionSnippet": ""
+                }
+            },
+            "trackingId": "sf8gAd+uSv+Eb6RJe6uYmw=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;XrekNi6nREueHpcg1abUJw==",
+            "hitInfo": {
+                "com.linkedin.voyager.search.SearchJobJserp": {
+                    "encryptedBiddingParameters": "CwEAAAFue9NabXSwQyKeVFcXXd7VJO_qROs6xAOj-PtlPXYNHScWFIXHLjJMzTfS7VmERhZy0gIAIG_JVBbpY0Te4dYNEJWPhGM1B_eZUmZ1dMDP6rQsZBa4sbHvghOLDaxVPFjTQD-YwAUmCTq0LcBIfUKi2AMsDDZzsKXdJq-l-1VcHa4kgwyF8PjfNlpj4hSgQrLof0Ur2rz1mjTx775MAtWb7TJ1ROok8AnBgWEdNe097tNQK4oWGtu0SAK0luWHPWyo50Dvb7UeoZnaYj_aGViUkuZHA9CeK-G3sL_YNRGAqYvauEnwNCDkYB_rDCgYU4jEDoP4ZK1yTMR9s1GWsvy8t_eGmf1Xp9jOH4vCQ-0WBixfI7d3SLJkB1QS9Q",
+                    "entityUrn": "urn:li:fs_searchJobJserp:urn:li:fs_normalized_jobPosting:1414608769",
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:1414608769",
+                    "sponsored": true,
+                    "sponsoredToken": "CwEAAAFue9NanF6BKqREoh8_K9LuPJcbnQ4NeCik1T7ClevGgunMjupu6ORTYsWVrRUJVgu9cg923uAXs09htZDbh_w",
+                    "descriptionSnippet": ""
+                }
+            },
+            "trackingId": "K17eQgkUSWeFP3++IfzNbA=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;8P/tR4TtQTK9zVPOQp4ZWA==",
+            "hitInfo": {
+                "com.linkedin.voyager.search.SearchJobJserp": {
+                    "encryptedBiddingParameters": "NotAvailableFromVoyagerAPI",
+                    "entityUrn": "urn:li:fs_searchJobJserp:urn:li:fs_normalized_jobPosting:1561885121",
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:1561885121",
+                    "sponsored": false,
+                    "descriptionSnippet": ""
+                }
+            },
+            "trackingId": "qymRMVmIRMmveHQ68/srwg=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;J53XbIa+Q06Fi0oqsPSpoQ==",
+            "hitInfo": {
+                "com.linkedin.voyager.search.SearchJobJserp": {
+                    "encryptedBiddingParameters": "NotAvailableFromVoyagerAPI",
+                    "entityUrn": "urn:li:fs_searchJobJserp:urn:li:fs_normalized_jobPosting:1593497888",
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:1593497888",
+                    "sponsored": false,
+                    "descriptionSnippet": ""
+                }
+            },
+            "trackingId": "e8eSOo2eRTaX3wHsyDjQrw=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;SRG3Rt4fRX63OW1NLRujJQ==",
+            "hitInfo": {
+                "com.linkedin.voyager.search.SearchJobJserp": {
+                    "encryptedBiddingParameters": "NotAvailableFromVoyagerAPI",
+                    "entityUrn": "urn:li:fs_searchJobJserp:urn:li:fs_normalized_jobPosting:1606232419",
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:1606232419",
+                    "sponsored": false,
+                    "descriptionSnippet": ""
+                }
+            },
+            "trackingId": "1OHwtp+UTYufaSVquuUCrw=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;DIBW7xFbSE+YjhHu5J2/Yw==",
+            "hitInfo": {
+                "com.linkedin.voyager.search.SearchJobJserp": {
+                    "encryptedBiddingParameters": "NotAvailableFromVoyagerAPI",
+                    "entityUrn": "urn:li:fs_searchJobJserp:urn:li:fs_normalized_jobPosting:1612129585",
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:1612129585",
+                    "sponsored": false,
+                    "descriptionSnippet": ""
+                }
+            },
+            "trackingId": "xLeUj0r3QeSF2qPGwhvA3Q=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;ATM3oL6sSsCwCXEDd1oF4Q==",
+            "hitInfo": {
+                "com.linkedin.voyager.search.SearchJobJserp": {
+                    "encryptedBiddingParameters": "NotAvailableFromVoyagerAPI",
+                    "entityUrn": "urn:li:fs_searchJobJserp:urn:li:fs_normalized_jobPosting:1601767878",
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:1601767878",
+                    "sponsored": false,
+                    "descriptionSnippet": ""
+                }
+            },
+            "trackingId": "tO9yPREETkmM1ALEg4A7gA=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;ozzULgHfTrWm8H9O9Tiw/w==",
+            "hitInfo": {
+                "com.linkedin.voyager.search.SearchJobJserp": {
+                    "encryptedBiddingParameters": "NotAvailableFromVoyagerAPI",
+                    "entityUrn": "urn:li:fs_searchJobJserp:urn:li:fs_normalized_jobPosting:1486725768",
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:1486725768",
+                    "sponsored": false,
+                    "descriptionSnippet": ""
+                }
+            },
+            "trackingId": "M1HmD7Y0S66wB/Za0jIMbg=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;smLgaVXSQFKTK7xcfxohuA==",
+            "hitInfo": {
+                "com.linkedin.voyager.search.SearchJobJserp": {
+                    "encryptedBiddingParameters": "NotAvailableFromVoyagerAPI",
+                    "entityUrn": "urn:li:fs_searchJobJserp:urn:li:fs_normalized_jobPosting:1612196271",
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:1612196271",
+                    "sponsored": false,
+                    "descriptionSnippet": ""
+                }
+            },
+            "trackingId": "ZvtyJNNuRK2zl/3e9i1Xfw=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;H8AQk2u7RdG1epMza6dlVg==",
+            "hitInfo": {
+                "com.linkedin.voyager.search.SearchJobJserp": {
+                    "encryptedBiddingParameters": "NotAvailableFromVoyagerAPI",
+                    "entityUrn": "urn:li:fs_searchJobJserp:urn:li:fs_normalized_jobPosting:1370243282",
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:1370243282",
+                    "sponsored": false,
+                    "descriptionSnippet": ""
+                }
+            },
+            "trackingId": "EezeMQv/SOesHBYGjurNRA=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;IrlcCwBbQ22vE0HRpvJr+A==",
+            "hitInfo": {
+                "com.linkedin.voyager.search.SearchJobJserp": {
+                    "encryptedBiddingParameters": "NotAvailableFromVoyagerAPI",
+                    "entityUrn": "urn:li:fs_searchJobJserp:urn:li:fs_normalized_jobPosting:1438313728",
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:1438313728",
+                    "sponsored": false,
+                    "descriptionSnippet": ""
+                }
+            },
+            "trackingId": "XzGlqA8NRECbglp+NQ4omQ=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;9YH/6COcSX+AMtE8Jn2REw==",
+            "hitInfo": {
+                "com.linkedin.voyager.search.SearchJobJserp": {
+                    "encryptedBiddingParameters": "NotAvailableFromVoyagerAPI",
+                    "entityUrn": "urn:li:fs_searchJobJserp:urn:li:fs_normalized_jobPosting:1569104237",
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:1569104237",
+                    "sponsored": false,
+                    "descriptionSnippet": ""
+                }
+            },
+            "trackingId": "kq0oO12dQG+PPcCD0hbjjw=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;FyftPwUMT3+Up9hV+n59PQ==",
+            "hitInfo": {
+                "com.linkedin.voyager.search.SearchJobJserp": {
+                    "encryptedBiddingParameters": "NotAvailableFromVoyagerAPI",
+                    "entityUrn": "urn:li:fs_searchJobJserp:urn:li:fs_normalized_jobPosting:1585023186",
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:1585023186",
+                    "sponsored": false,
+                    "descriptionSnippet": ""
+                }
+            },
+            "trackingId": "MXlH1Xj1TCabPBrixlTUbg=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;EPT8J7DhTR+OM2nzpij4Vg==",
+            "hitInfo": {
+                "com.linkedin.voyager.search.SearchJobJserp": {
+                    "encryptedBiddingParameters": "NotAvailableFromVoyagerAPI",
+                    "entityUrn": "urn:li:fs_searchJobJserp:urn:li:fs_normalized_jobPosting:1611801228",
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:1611801228",
+                    "sponsored": false,
+                    "descriptionSnippet": ""
+                }
+            },
+            "trackingId": "mbQG8KXcRsKwgOtDVfxaIg=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;N91f1XZaS9inU3jHcBAQig==",
+            "hitInfo": {
+                "com.linkedin.voyager.search.SearchJobJserp": {
+                    "encryptedBiddingParameters": "NotAvailableFromVoyagerAPI",
+                    "entityUrn": "urn:li:fs_searchJobJserp:urn:li:fs_normalized_jobPosting:1587601009",
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:1587601009",
+                    "sponsored": false,
+                    "descriptionSnippet": ""
+                }
+            },
+            "trackingId": "DDrHz+wQTPyFJ+iTBZHksw=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;V9ZEkrsQRtmxFbTlBEckeA==",
+            "hitInfo": {
+                "com.linkedin.voyager.search.SearchJobJserp": {
+                    "encryptedBiddingParameters": "NotAvailableFromVoyagerAPI",
+                    "entityUrn": "urn:li:fs_searchJobJserp:urn:li:fs_normalized_jobPosting:1598299669",
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:1598299669",
+                    "sponsored": false,
+                    "descriptionSnippet": ""
+                }
+            },
+            "trackingId": "71OnNpp0T2a5+Vf/Ha1DUg=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;dRKognZES/OL4MVmXcq+KA==",
+            "hitInfo": {
+                "com.linkedin.voyager.search.SearchJobJserp": {
+                    "encryptedBiddingParameters": "NotAvailableFromVoyagerAPI",
+                    "entityUrn": "urn:li:fs_searchJobJserp:urn:li:fs_normalized_jobPosting:1560158498",
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:1560158498",
+                    "sponsored": false,
+                    "descriptionSnippet": ""
+                }
+            },
+            "trackingId": "WqCLt2NAS86BnL7MKcKIYw=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;6cGdEOq+Q1eZqSNBE3s/Pw==",
+            "hitInfo": {
+                "com.linkedin.voyager.search.SearchJobJserp": {
+                    "encryptedBiddingParameters": "NotAvailableFromVoyagerAPI",
+                    "entityUrn": "urn:li:fs_searchJobJserp:urn:li:fs_normalized_jobPosting:1472984618",
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:1472984618",
+                    "sponsored": false,
+                    "descriptionSnippet": ""
+                }
+            },
+            "trackingId": "L9nQGmhAR8SgHb72U1m2pw=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;NLQdhbBKQ8+dqdFJ5BZ/Hw==",
+            "hitInfo": {
+                "com.linkedin.voyager.search.SearchJobJserp": {
+                    "encryptedBiddingParameters": "NotAvailableFromVoyagerAPI",
+                    "entityUrn": "urn:li:fs_searchJobJserp:urn:li:fs_normalized_jobPosting:1611851708",
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:1611851708",
+                    "sponsored": false,
+                    "descriptionSnippet": ""
+                }
+            },
+            "trackingId": "xfKrmfLyRfCKkHYWAx/6eA=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;/JBiwm8xQUmm+SiNUs+hBg==",
+            "hitInfo": {
+                "com.linkedin.voyager.search.SearchJobJserp": {
+                    "encryptedBiddingParameters": "NotAvailableFromVoyagerAPI",
+                    "entityUrn": "urn:li:fs_searchJobJserp:urn:li:fs_normalized_jobPosting:1419632651",
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:1419632651",
+                    "sponsored": false,
+                    "descriptionSnippet": ""
+                }
+            },
+            "trackingId": "MxxjSC+AQOC2GbWsBPYSrg=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;gN7JT4DAQXmyycgj3TYm5Q==",
+            "hitInfo": {
+                "com.linkedin.voyager.search.SearchJobJserp": {
+                    "encryptedBiddingParameters": "NotAvailableFromVoyagerAPI",
+                    "entityUrn": "urn:li:fs_searchJobJserp:urn:li:fs_normalized_jobPosting:1595585124",
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:1595585124",
+                    "sponsored": false,
+                    "descriptionSnippet": ""
+                }
+            },
+            "trackingId": "C0feoYpmSVSKFcwARNoHfg=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;mwNk1oWpTJi7b5KpLqeL9g==",
+            "hitInfo": {
+                "com.linkedin.voyager.search.SearchJobJserp": {
+                    "encryptedBiddingParameters": "NotAvailableFromVoyagerAPI",
+                    "entityUrn": "urn:li:fs_searchJobJserp:urn:li:fs_normalized_jobPosting:1550907513",
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:1550907513",
+                    "sponsored": false,
+                    "descriptionSnippet": ""
+                }
+            },
+            "trackingId": "WpDr3uQ6R0G8/ZDQp6JdoA=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;itgLWFs8RxeYqI+W8IeJ6A==",
+            "hitInfo": {
+                "com.linkedin.voyager.search.SearchJobJserp": {
+                    "encryptedBiddingParameters": "NotAvailableFromVoyagerAPI",
+                    "entityUrn": "urn:li:fs_searchJobJserp:urn:li:fs_normalized_jobPosting:1576443177",
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:1576443177",
+                    "sponsored": false,
+                    "descriptionSnippet": ""
+                }
+            },
+            "trackingId": "ZOabIckFQJi/OJx2s2mGnQ=="
+        }
+    ],
+    "paging": {
+        "count": 49,
+        "start": 0,
+        "total": 419,
+        "links": []
+    }
+}

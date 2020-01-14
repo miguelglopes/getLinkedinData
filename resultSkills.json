@@ -1,0 +1,541 @@
+{
+    "salaryInsights": {
+        "jobCompensationAvailable": false
+    },
+    "country": "urn:li:fs_country:pt",
+    "jobApplicantsManagementSettingsUrn": "urn:li:fs_jobApplicantsManagementSettings:1526861009",
+    "standardizedTitle": "urn:li:fs_title:9",
+    "companyDetails": {
+        "com.linkedin.voyager.jobs.JobPostingCompany": {
+            "company": "urn:li:fs_normalized_company:16663"
+        }
+    },
+    "jobPosterEntitlements": {
+        "entitledToPromoteJob": false,
+        "entitledToEditJob": false,
+        "entitledToCopyJob": false,
+        "entitledToAccessJobDashboard": false,
+        "entitledToViewBillingInfo": false
+    },
+    "smartSnippets": [
+        "What will you be doing? We&#x2019;re looking for passionate people committed to their work. Excellent coding skills in one or more of these ..."
+    ],
+    "listingType": "PREMIUM",
+    "employmentStatus": "urn:li:fs_employmentStatus:FULL_TIME",
+    "testDriveEligible": false,
+    "createdAt": 1572340884000,
+    "urlPathSegment": "software-engineer-lisbon-and-braga-at-outsystems-1526861009",
+    "ownerViewEnabled": false,
+    "industryMatches": [
+        {
+            "value": "Computer Software",
+            "matchStatus": "NO_MATCH"
+        }
+    ],
+    "skillMatches": [
+        {
+            "value": "Continuous Delivery",
+            "matchStatus": "NO_MATCH"
+        },
+        {
+            "value": "Computer Science",
+            "matchStatus": "NO_MATCH"
+        },
+        {
+            "value": "TypeScript",
+            "matchStatus": "NO_MATCH"
+        },
+        {
+            "value": "Application Development",
+            "matchStatus": "NO_MATCH"
+        },
+        {
+            "value": "Software Development",
+            "matchStatus": "MATCH"
+        },
+        {
+            "value": "Data Structures",
+            "matchStatus": "NO_MATCH"
+        },
+        {
+            "value": "Design",
+            "matchStatus": "NO_MATCH"
+        },
+        {
+            "value": "C#",
+            "matchStatus": "MATCH"
+        },
+        {
+            "value": "Troubleshooting",
+            "matchStatus": "NO_MATCH"
+        },
+        {
+            "value": "React.js",
+            "matchStatus": "NO_MATCH"
+        }
+    ],
+    "hiringDashboardViewEnabled": false,
+    "preferredScreeningQuestions": [],
+    "new": false,
+    "talentHubJob": false,
+    "formattedLocation": "Lisbon Area, Portugal",
+    "jobPostingUrl": "https://www.linkedin.com/jobs/view/1526861009/?trk=jobs_biz_prem_srch",
+    "requiredScreeningQuestions": [],
+    "applies": 18,
+    "formattedExperienceLevel": "Mid-Senior level",
+    "jobFunctions": [
+        "ENG",
+        "IT"
+    ],
+    "applyingInfo": {
+        "entityUrn": "urn:li:fs_jobApplyingInfo:1526861009",
+        "applied": false,
+        "closed": false
+    },
+    "encryptedPricingParams": "CwIAAAFue1K1TXfxQ9Krh1rAa8Kk6mcHjaxUlPlTv1q4_ANZahF4QIrJGFD41yRq7V_EaBUZFdImc_I9KvaZxoQw8bq7U72Mgvq-A7d1YNqcsmZ273GEWnsexnAXMJYFr1UMmHNOHiRtEEs1B1gkHjaavJR5lTp2v6qZ6fxWS0FVndhrhaZ90jUGodIrPKn8R9I8xeB1Go3lKRCgeliCVQ",
+    "eligibleForSharingProfileWithPoster": true,
+    "jobState": "LISTED",
+    "trackingUrn": "urn:li:jobPosting:1526861009",
+    "description": {
+        "attributes": [
+            {
+                "start": 0,
+                "length": 11,
+                "type": {
+                    "com.linkedin.pemberly.text.Bold": {}
+                }
+            },
+            {
+                "start": 0,
+                "length": 11,
+                "type": {
+                    "com.linkedin.pemberly.text.Paragraph": {}
+                }
+            },
+            {
+                "start": 11,
+                "length": 331,
+                "type": {
+                    "com.linkedin.pemberly.text.Paragraph": {}
+                }
+            },
+            {
+                "start": 342,
+                "length": 1,
+                "type": {
+                    "com.linkedin.pemberly.text.LineBreak": {}
+                }
+            },
+            {
+                "start": 342,
+                "length": 1,
+                "type": {
+                    "com.linkedin.pemberly.text.Paragraph": {}
+                }
+            },
+            {
+                "start": 343,
+                "length": 23,
+                "type": {
+                    "com.linkedin.pemberly.text.Bold": {}
+                }
+            },
+            {
+                "start": 343,
+                "length": 23,
+                "type": {
+                    "com.linkedin.pemberly.text.Paragraph": {}
+                }
+            },
+            {
+                "start": 366,
+                "length": 272,
+                "type": {
+                    "com.linkedin.pemberly.text.Paragraph": {}
+                }
+            },
+            {
+                "start": 638,
+                "length": 118,
+                "type": {
+                    "com.linkedin.pemberly.text.ListItem": {}
+                }
+            },
+            {
+                "start": 756,
+                "length": 68,
+                "type": {
+                    "com.linkedin.pemberly.text.ListItem": {}
+                }
+            },
+            {
+                "start": 824,
+                "length": 72,
+                "type": {
+                    "com.linkedin.pemberly.text.ListItem": {}
+                }
+            },
+            {
+                "start": 896,
+                "length": 56,
+                "type": {
+                    "com.linkedin.pemberly.text.ListItem": {}
+                }
+            },
+            {
+                "start": 952,
+                "length": 107,
+                "type": {
+                    "com.linkedin.pemberly.text.ListItem": {}
+                }
+            },
+            {
+                "start": 1059,
+                "length": 75,
+                "type": {
+                    "com.linkedin.pemberly.text.ListItem": {}
+                }
+            },
+            {
+                "start": 638,
+                "length": 496,
+                "type": {
+                    "com.linkedin.pemberly.text.List": {
+                        "ordered": false
+                    }
+                }
+            },
+            {
+                "start": 1134,
+                "length": 1,
+                "type": {
+                    "com.linkedin.pemberly.text.LineBreak": {}
+                }
+            },
+            {
+                "start": 1134,
+                "length": 1,
+                "type": {
+                    "com.linkedin.pemberly.text.Paragraph": {}
+                }
+            },
+            {
+                "start": 1135,
+                "length": 44,
+                "type": {
+                    "com.linkedin.pemberly.text.Bold": {}
+                }
+            },
+            {
+                "start": 1135,
+                "length": 44,
+                "type": {
+                    "com.linkedin.pemberly.text.Paragraph": {}
+                }
+            },
+            {
+                "start": 1179,
+                "length": 57,
+                "type": {
+                    "com.linkedin.pemberly.text.ListItem": {}
+                }
+            },
+            {
+                "start": 1236,
+                "length": 102,
+                "type": {
+                    "com.linkedin.pemberly.text.ListItem": {}
+                }
+            },
+            {
+                "start": 1338,
+                "length": 71,
+                "type": {
+                    "com.linkedin.pemberly.text.ListItem": {}
+                }
+            },
+            {
+                "start": 1409,
+                "length": 29,
+                "type": {
+                    "com.linkedin.pemberly.text.ListItem": {}
+                }
+            },
+            {
+                "start": 1438,
+                "length": 34,
+                "type": {
+                    "com.linkedin.pemberly.text.ListItem": {}
+                }
+            },
+            {
+                "start": 1472,
+                "length": 49,
+                "type": {
+                    "com.linkedin.pemberly.text.ListItem": {}
+                }
+            },
+            {
+                "start": 1179,
+                "length": 342,
+                "type": {
+                    "com.linkedin.pemberly.text.List": {
+                        "ordered": false
+                    }
+                }
+            },
+            {
+                "start": 1521,
+                "length": 1,
+                "type": {
+                    "com.linkedin.pemberly.text.LineBreak": {}
+                }
+            },
+            {
+                "start": 1521,
+                "length": 1,
+                "type": {
+                    "com.linkedin.pemberly.text.Paragraph": {}
+                }
+            },
+            {
+                "start": 1522,
+                "length": 12,
+                "type": {
+                    "com.linkedin.pemberly.text.Bold": {}
+                }
+            },
+            {
+                "start": 1522,
+                "length": 12,
+                "type": {
+                    "com.linkedin.pemberly.text.Paragraph": {}
+                }
+            },
+            {
+                "start": 1534,
+                "length": 43,
+                "type": {
+                    "com.linkedin.pemberly.text.ListItem": {}
+                }
+            },
+            {
+                "start": 1577,
+                "length": 111,
+                "type": {
+                    "com.linkedin.pemberly.text.ListItem": {}
+                }
+            },
+            {
+                "start": 1534,
+                "length": 154,
+                "type": {
+                    "com.linkedin.pemberly.text.List": {
+                        "ordered": false
+                    }
+                }
+            },
+            {
+                "start": 1688,
+                "length": 1,
+                "type": {
+                    "com.linkedin.pemberly.text.Paragraph": {}
+                }
+            },
+            {
+                "start": 1689,
+                "length": 112,
+                "type": {
+                    "com.linkedin.pemberly.text.Bold": {}
+                }
+            },
+            {
+                "start": 1689,
+                "length": 112,
+                "type": {
+                    "com.linkedin.pemberly.text.Paragraph": {}
+                }
+            },
+            {
+                "start": 1801,
+                "length": 1,
+                "type": {
+                    "com.linkedin.pemberly.text.LineBreak": {}
+                }
+            },
+            {
+                "start": 1801,
+                "length": 1,
+                "type": {
+                    "com.linkedin.pemberly.text.Paragraph": {}
+                }
+            },
+            {
+                "start": 1802,
+                "length": 21,
+                "type": {
+                    "com.linkedin.pemberly.text.Bold": {}
+                }
+            },
+            {
+                "start": 1802,
+                "length": 21,
+                "type": {
+                    "com.linkedin.pemberly.text.Paragraph": {}
+                }
+            },
+            {
+                "start": 1823,
+                "length": 430,
+                "type": {
+                    "com.linkedin.pemberly.text.Paragraph": {}
+                }
+            },
+            {
+                "start": 2253,
+                "length": 1,
+                "type": {
+                    "com.linkedin.pemberly.text.LineBreak": {}
+                }
+            },
+            {
+                "start": 2253,
+                "length": 1,
+                "type": {
+                    "com.linkedin.pemberly.text.Paragraph": {}
+                }
+            },
+            {
+                "start": 2254,
+                "length": 419,
+                "type": {
+                    "com.linkedin.pemberly.text.Paragraph": {}
+                }
+            },
+            {
+                "start": 2673,
+                "length": 1,
+                "type": {
+                    "com.linkedin.pemberly.text.LineBreak": {}
+                }
+            },
+            {
+                "start": 2673,
+                "length": 1,
+                "type": {
+                    "com.linkedin.pemberly.text.Paragraph": {}
+                }
+            },
+            {
+                "start": 2674,
+                "length": 235,
+                "type": {
+                    "com.linkedin.pemberly.text.Paragraph": {}
+                }
+            },
+            {
+                "start": 2909,
+                "length": 1,
+                "type": {
+                    "com.linkedin.pemberly.text.LineBreak": {}
+                }
+            },
+            {
+                "start": 2909,
+                "length": 1,
+                "type": {
+                    "com.linkedin.pemberly.text.Paragraph": {}
+                }
+            },
+            {
+                "start": 2910,
+                "length": 80,
+                "type": {
+                    "com.linkedin.pemberly.text.Bold": {}
+                }
+            },
+            {
+                "start": 2910,
+                "length": 80,
+                "type": {
+                    "com.linkedin.pemberly.text.Paragraph": {}
+                }
+            }
+        ],
+        "text": "Who are we?OutSystems is the leader in low-code application development. Our R&D develops the OutSystems Platform, a highly scalable platform that allows large companies to easily build complex applications by simplifying the software development process. If you want to know more about us check what our\u00a0happy customers\u00a0have to say about us.\nWhat will you be doing?As a Developer in the OutSystems R&D, you\u2019ll be a member of the group of teams responsible for developing the next generation of capabilities of one of our platform components, from our IDE to our own Cloud Platform. In this group, you\u2019ll have many opportunities, such as:Designing and developing solutions with the team, by following development processes (like TDD, BDD, code reviews...);Optimizing the performance of the platform component you\u2019ll work on;Produce and test code in short cycles, with a high degree of automation;Gather feedback from end-users and adapt your solutions;Grow your own and your colleagues' technical skills, through pairing, peer review, and knowledge transfers;Research new technologies and approaches to solve our technical challenges.\nHere\u2019s what you need to succeed in this job:Bachelor or Master Degree in Computer Science or similar;Knowledge of software engineering principles, algorithms, data structures, and Object-Oriented Design;Passion to analyze and design elegant solutions for high-tech problems;Great troubleshooting skills;Team player with a growth mindset;Good communication skills and fluency in English.\nAlso valued:Continuous delivery and testing techniques;Excellent coding skills in one or more of these technologies is a plus: C#, TypeScript, React, CSS, Containers.\u00a0We\u2019re looking for passionate people committed to their work. If this description applies to you, we should talk!\nWorking at OutSystemsWorking at OutSystems gives you the opportunity to change the world of software development! We are leading the evolution of the software development process by removing complexity from it, allowing developers to focus on delivering value and making a difference. But removing complexity from software development means that we need to solve it ourselves, so we will have lots of opportunities and complex challenges to offer you.\nWe don\u2019t have many rules, but we have a lot of common sense. Our commitment to our culture is highlighted in\u00a0The Small Book of the Few Big Rules. This commitment to culture has landed us in the top six Forbes Best Cloud Computing Companies and CEOs To Work For three years running. We foster a culture where people make a difference. And every day, we focus on making sure that we keep a startup and innovative mindset.\nYou will work with colleagues that are as smart, hardworking and driven as you \u2013 and spread all over the globe -, in a solid company that still keeps growing, changing and innovating, and giving teams room to be proactive and creative.\nAre you ready for the next step in your career? Then we\u2019d love to hear from you!"
+    },
+    "formattedEmploymentStatus": "Full-time",
+    "title": "Software Engineer - Lisbon and Braga",
+    "originalListedAt": 1572340892000,
+    "entityUrn": "urn:li:fs_normalized_jobPosting:1526861009",
+    "workRemoteAllowed": false,
+    "briefBenefitsDescription": "",
+    "jobRegion": "urn:li:fs_region:(pt,7405)",
+    "applyMethod": {
+        "com.linkedin.voyager.jobs.OffsiteApply": {
+            "applyStartersPreferenceVoid": true,
+            "companyApplyUrl": "https://jobapply.page.link/HLQE"
+        }
+    },
+    "inferredSkillMatches": [
+        {
+            "value": "Cascading Style Sheets (CSS)",
+            "matchStatus": "MATCH"
+        },
+        {
+            "value": "Continuous Delivery",
+            "matchStatus": "NO_MATCH"
+        },
+        {
+            "value": "TypeScript",
+            "matchStatus": "NO_MATCH"
+        },
+        {
+            "value": "C (Programming Language)",
+            "matchStatus": "MATCH"
+        },
+        {
+            "value": "C#",
+            "matchStatus": "MATCH"
+        },
+        {
+            "value": "React.js",
+            "matchStatus": "NO_MATCH"
+        }
+    ],
+    "views": 138,
+    "savingInfo": {
+        "saved": false,
+        "entityUrn": "urn:li:fs_jobSavingInfo:1526861009"
+    },
+    "eligibleForReferrals": false,
+    "formattedJobFunctions": [
+        "Engineering",
+        "Information Technology"
+    ],
+    "locationVisibility": "ADDRESS",
+    "sponsored": false,
+    "expireAt": 1574932890000,
+    "listedAt": 1572340892000,
+    "degreeMatches": [],
+    "candidateMonthsOfExperience": 0,
+    "inferredBenefits": [],
+    "functionMatches": [
+        {
+            "value": "Engineering",
+            "matchStatus": "MATCH"
+        },
+        {
+            "value": "Information Technology",
+            "matchStatus": "NO_MATCH"
+        }
+    ],
+    "formattedIndustries": [
+        "Computer Software"
+    ],
+    "industries": [
+        4
+    ],
+    "allowedToEdit": false,
+    "location": "urn:li:fs_city:(pt,11-6-1)"
+}
